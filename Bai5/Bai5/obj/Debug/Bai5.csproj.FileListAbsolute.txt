@@ -1,0 +1,10 @@
+E:\C#_TLU\TH4\Bai5\Bai5\bin\Debug\Bai5.exe.config
+E:\C#_TLU\TH4\Bai5\Bai5\bin\Debug\Bai5.exe
+E:\C#_TLU\TH4\Bai5\Bai5\bin\Debug\Bai5.pdb
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.Form1.resources
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.csproj.GenerateResource.Cache
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.exe
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.pdb
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.csprojResolveAssemblyReference.cache
+E:\C#_TLU\TH4\Bai5\Bai5\obj\Debug\Bai5.TinhTien.resources

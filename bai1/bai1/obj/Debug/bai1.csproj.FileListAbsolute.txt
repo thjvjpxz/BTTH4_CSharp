@@ -1,0 +1,9 @@
+E:\C#_TLU\TH4\bai1\bai1\bin\Debug\bai1.exe.config
+E:\C#_TLU\TH4\bai1\bai1\bin\Debug\bai1.exe
+E:\C#_TLU\TH4\bai1\bai1\bin\Debug\bai1.pdb
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.Form1.resources
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.Cache
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.exe
+E:\C#_TLU\TH4\bai1\bai1\obj\Debug\bai1.pdb

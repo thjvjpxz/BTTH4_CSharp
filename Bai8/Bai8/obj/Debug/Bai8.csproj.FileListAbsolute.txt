@@ -1,0 +1,12 @@
+E:\C#_TLU\TH4\Bai8\Bai8\bin\Debug\Bai8.exe.config
+E:\C#_TLU\TH4\Bai8\Bai8\bin\Debug\Bai8.exe
+E:\C#_TLU\TH4\Bai8\Bai8\bin\Debug\Bai8.pdb
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.Form1.resources
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.csproj.GenerateResource.Cache
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.exe
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.pdb
+E:\C#_TLU\TH4\Bai8\Bai8\obj\Debug\Bai8.TimKiem.resources
+E:\C#_TLU\BTTH4_CSharp\Bai8\Bai8\bin\Debug\Bai8.exe.config
+E:\C#_TLU\BTTH4_CSharp\Bai8\Bai8\obj\Debug\Bai8.exe
+E:\C#_TLU\BTTH4_CSharp\Bai8\Bai8\obj\Debug\Bai8.pdb

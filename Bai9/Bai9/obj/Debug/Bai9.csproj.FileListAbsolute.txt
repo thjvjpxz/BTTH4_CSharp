@@ -1,0 +1,9 @@
+E:\C#_TLU\TH4\Bai9\Bai9\bin\Debug\Bai9.exe.config
+E:\C#_TLU\TH4\Bai9\Bai9\bin\Debug\Bai9.exe
+E:\C#_TLU\TH4\Bai9\Bai9\bin\Debug\Bai9.pdb
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.csprojResolveAssemblyReference.cache
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.Cache
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.exe
+E:\C#_TLU\TH4\Bai9\Bai9\obj\Debug\Bai9.pdb

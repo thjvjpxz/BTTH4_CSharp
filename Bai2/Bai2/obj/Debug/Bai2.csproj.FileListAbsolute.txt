@@ -1,0 +1,8 @@
+E:\C#_TLU\TH4\Bai2\Bai2\bin\Debug\Bai2.exe.config
+E:\C#_TLU\TH4\Bai2\Bai2\bin\Debug\Bai2.exe
+E:\C#_TLU\TH4\Bai2\Bai2\bin\Debug\Bai2.pdb
+E:\C#_TLU\TH4\Bai2\Bai2\obj\Debug\Bai2.Form1.resources
+E:\C#_TLU\TH4\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\C#_TLU\TH4\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.Cache
+E:\C#_TLU\TH4\Bai2\Bai2\obj\Debug\Bai2.exe
+E:\C#_TLU\TH4\Bai2\Bai2\obj\Debug\Bai2.pdb
